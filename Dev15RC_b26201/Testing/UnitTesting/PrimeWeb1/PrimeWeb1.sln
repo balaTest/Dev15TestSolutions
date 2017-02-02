@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26201.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeWeb1", "PrimeWeb1\PrimeWeb1.csproj", "{27D8145D-46A9-46BE-AC43-8FB00F3EF395}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeWeb1.UnitTests", "PrimeWeb1.UnitTests\PrimeWeb1.UnitTests.csproj", "{2D53D8D6-980C-4B63-BE87-AFEE2B2AE66C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,18 @@ Global
 		{27D8145D-46A9-46BE-AC43-8FB00F3EF395}.Release|x64.Build.0 = Release|x64
 		{27D8145D-46A9-46BE-AC43-8FB00F3EF395}.Release|x86.ActiveCfg = Release|x86
 		{27D8145D-46A9-46BE-AC43-8FB00F3EF395}.Release|x86.Build.0 = Release|x86
+		{2D53D8D6-980C-4B63-BE87-AFEE2B2AE66C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D53D8D6-980C-4B63-BE87-AFEE2B2AE66C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D53D8D6-980C-4B63-BE87-AFEE2B2AE66C}.Debug|x64.ActiveCfg = Debug|x64
+		{2D53D8D6-980C-4B63-BE87-AFEE2B2AE66C}.Debug|x64.Build.0 = Debug|x64
+		{2D53D8D6-980C-4B63-BE87-AFEE2B2AE66C}.Debug|x86.ActiveCfg = Debug|x86
+		{2D53D8D6-980C-4B63-BE87-AFEE2B2AE66C}.Debug|x86.Build.0 = Debug|x86
+		{2D53D8D6-980C-4B63-BE87-AFEE2B2AE66C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D53D8D6-980C-4B63-BE87-AFEE2B2AE66C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D53D8D6-980C-4B63-BE87-AFEE2B2AE66C}.Release|x64.ActiveCfg = Release|x64
+		{2D53D8D6-980C-4B63-BE87-AFEE2B2AE66C}.Release|x64.Build.0 = Release|x64
+		{2D53D8D6-980C-4B63-BE87-AFEE2B2AE66C}.Release|x86.ActiveCfg = Release|x86
+		{2D53D8D6-980C-4B63-BE87-AFEE2B2AE66C}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
