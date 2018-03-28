@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc5App_net461_cs_IIS_IndAuth_1", "Mvc5App_net461_cs_IIS_IndAuth_1\Mvc5App_net461_cs_IIS_IndAuth_1.csproj", "{095E80C5-937F-481F-8B46-9C8C45985439}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{095E80C5-937F-481F-8B46-9C8C45985439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{095E80C5-937F-481F-8B46-9C8C45985439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{095E80C5-937F-481F-8B46-9C8C45985439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{095E80C5-937F-481F-8B46-9C8C45985439}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C20F685-BE54-4C38-82EC-06D6EF4DB108}
+	EndGlobalSection
+EndGlobal
